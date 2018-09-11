@@ -192,7 +192,7 @@
     "mmmagic": "^0.4.5",
     "mocha": "^5.0.0",
     "mocha-steps": "^1.1.0",
-    "morgan": "^1.8.2",
+    "morgan": "^1.9.1",
     "multer": "^1.3.0",
     "node-jose": "^0.11.0",
     "node-kms": "^0.3.2",
